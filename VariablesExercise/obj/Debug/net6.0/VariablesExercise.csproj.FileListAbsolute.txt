@@ -1,0 +1,15 @@
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.AssemblyReference.cache
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/home/tiago/projects/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/home/tiago/projects/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/home/tiago/projects/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/home/tiago/projects/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/home/tiago/projects/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/home/tiago/projects/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
